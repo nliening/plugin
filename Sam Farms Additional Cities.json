@@ -186,5 +186,21 @@
         "FALLS CITY, NE",
         "KANSAS CITY, MO",
         "CHILLICOTHE, MO"
+    ],
+    "Le Mars, IA": [
+        "Sioux City, IA",
+        "Omaha, NE",
+        "Lyons, NE"
+    ],
+    "Pittsburg, TX": [
+        "Mount Pleasant, TX",
+        "Greenville, TX",
+        "Longview, TX"
+    ],
+    "Green Forest, MS": [
+        "Jackson, MS",
+        "Vicksburg, MS",
+        "Meridian, MS",
+        "Hazlehurst, MS",
     ]
 }
