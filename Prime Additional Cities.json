@@ -38,5 +38,20 @@
         "NORTH PLATTE, NE",
         "GRAND ISLAND, NE",
         "BROKEN ARROW, NE"
+    ],
+    "TOPPENISH,WA": [
+        "ELLENSBURG, WA",
+        "KENNEWICK, WA",
+        "HOOD RIVER, OR"
+    ],
+    "SIOUX CITY, IA": [
+        "LE MARS, IA",
+        "YANKTON, SD",
+        "LYONS, NE"
+    ],
+    "JOSLIN, IL": [
+        "DAVENPORT, IA",
+        "HILLSDALE, IL",
+        "GENESEO, IL"
     ]
 }
