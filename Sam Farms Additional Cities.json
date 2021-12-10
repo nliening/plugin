@@ -197,9 +197,18 @@
         "Greenville, TX",
         "Longview, TX"
     ],
+    "Nacogdoches, TX": [
+        "Lufkin, TX",
+        "Longview, TX"
+    ],
     "Green Forest, MS": [
         "Jackson, MS",
         "Vicksburg, MS",
+        "Meridian, MS",
+        "Hazlehurst, MS"
+    ],
+    "Forest, MS": [
+        "Jackson, MS",
         "Meridian, MS",
         "Hazlehurst, MS"
     ]
